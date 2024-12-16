@@ -1,6 +1,10 @@
 package com.pi;
 
+import java_cup.runtime.*;
+
 %%
+%class Scanner
+%cup
 
 %public
 %class Analyser
